@@ -4,7 +4,7 @@
 # **Word AI 内容生成助手（VBA 宏脚本）**  
 
 ## **项目简介**  
-本项目是一个基于 **Microsoft Word VBA** 的自动化工具，通过调用 **AI API**，帮助用户快速生成结构化文本内容（如文章、报告、大纲等），并自动应用规范的 **Markdown 格式排版**，大幅提升文档编写效率。  
+本项目是一个基于 **Microsoft Word VBA** 的自动化工具，通过调用 **AI API**（免费申请：[SiliconFlow API](https://cloud.siliconflow.cn/i/CCl5Mnrb)），帮助用户快速生成结构化文本内容（如文章、报告、大纲等），并自动应用规范的 **Markdown 格式排版**，大幅提升文档编写效率。  
 
 ## **主要功能**  
 🔹 **AI 智能生成**：输入需求（如“写一篇关于 ChatGPT 的技术分析”），自动返回高质量内容。  
